@@ -18,7 +18,7 @@
 
 # 💫 About Me
 
-🎓 Information Technology Undergraduate specializing in **Data Science**
+🎓 Information Technology Undergraduate specializing in **Artificial Intelligence**
 
 🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Software Development**
 
