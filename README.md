@@ -1,238 +1,610 @@
+<!-- ========================================================= -->
+<!--                  CYBERPUNK AI PROFILE                     -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-# 👋 Hi, I'm Dasun Dilshan
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,25,30&text=Dasun%20Dilshan&fontSize=65&fontColor=ffffff&animation=fade&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=IT+Undergraduate;Data+Science+Student;Machine+Learning+Enthusiast;Aspiring+Software+Developer;AI+%7C+Data+Science+%7C+Web+Development;Always+Learning+New+Technologies" />
+</div>
 
-<br>
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Dasun-Git-2003&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/Dasun-Git-2003?label=Followers&style=for-the-badge&color=blue"/>
-
-<img src="https://img.shields.io/github/stars/Dasun-Git-2003?affiliations=OWNER&style=for-the-badge&color=yellow"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Undergraduate;Machine+Learning+Enthusiast;Full+Stack+Developer;Building+AI+Solutions;Always+Learning+New+Technologies"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+<div align="center">
 
-🎓 Information Technology Undergraduate specializing in **Data Science**
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="850"/>
 
-🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Software Development**
-
-💡 I enjoy building intelligent systems that solve real-world problems.
-
-🌱 Currently Learning
-
-- Deep Learning
-- Power BI
-- Cloud Computing
-- MLOps
-
-🎯 2026 Goals
-
-- 🚀 Build more AI projects
-- 📚 Earn industry certifications
-- 🌍 Contribute to Open Source
-- 💼 Become an AI Engineer
+</div>
 
 ---
 
-# 🚀 Tech Stack
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
-## 💻 Programming Languages
+```bash
+> whoami
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript"/>
+Name        : Dasun Dilshan
+Role        : AI Undergraduate
+Location    : Sri Lanka
+
+------------------------------
+
+Interests
+----------
+Artificial Intelligence
+Machine Learning
+Deep Learning
+Computer Vision
+Software Engineering
+Cloud Computing
+
+------------------------------
+
+Current Status
+--------------
+
+Learning every day.
+Building projects.
+Preparing for industry.
+```
+
+---
+
+# 🧠 AI Mindset
+
+> "Artificial Intelligence isn't replacing humans;
+it's empowering those who know how to use it."
+
+---
+
+# 🚀 Tech Arsenal
+
+## 💻 Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js&theme=dark"/>
+
 </p>
 
-## 🌐 Web Development
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
+## 🌐 Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript&theme=dark"/>
+
 </p>
 
-## 🗄️ Database
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
+## ⚙ Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,nodejs&theme=dark"/>
+
 </p>
 
-## ⚙️ Tools
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,arduino"/>
+## 🗄 Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
+
 </p>
 
-## 📊 Data Science
+---
 
-![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+## 🤖 Artificial Intelligence
 
-![](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+<p align="center">
 
-![](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
 
-![](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
+<img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge"/>
 
-![](https://img.shields.io/badge/Data%20Science-success?style=for-the-badge)
+<img src="https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Science-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-purple?style=for-the-badge"/>
+
+</p>
 
 ---
 
-# 📊 GitHub Statistics
+## 🛠 Tools
 
-<div align="center">
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dasun-Git-2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,arduino&theme=dark"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dasun-Git-2003&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🌱 Currently Learning
 
-<div align="center">
+```text
+███████████████████░░░ Artificial Intelligence
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dasun-Git-2003&theme=tokyonight&hide_border=true"/>
+█████████████████░░░░ Machine Learning
 
-</div>
+████████████████░░░░░ Deep Learning
 
----
+██████████████░░░░░░░ Cloud Computing
 
-# 📈 Contribution Graph
+███████████████░░░░░░ MLOps
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dasun-Git-2003&theme=tokyo-night&hide_border=true"/>
-
-</div>
+████████████████░░░░░ Power BI
+```
 
 ---
 
-# 🏆 GitHub Trophies
+<div align="center">
+<!-- ========================================================= -->
+<!--                   HACKER TERMINAL                         -->
+<!-- ========================================================= -->
+
+# 💻 Hacker Terminal
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dasun-Git-2003&theme=tokyonight&row=1&column=6"/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="900"/>
 
 </div>
+
+```bash
+┌──(dasun㉿ai)-[~/profile]
+└─$ whoami
+
+Dasun Dilshan
+
+┌──(dasun㉿ai)-[~/profile]
+└─$ cat education.txt
+
+Bachelor of Information Technology
+Specialization:
+Artificial Intelligence
+
+Expected Role:
+AI Engineer
+
+┌──(dasun㉿ai)-[~/profile]
+└─$ ls skills/
+
+Artificial Intelligence
+Machine Learning
+Deep Learning
+Computer Vision
+Python
+Java
+SQL
+Git
+Cloud Computing
+
+┌──(dasun㉿ai)-[~/profile]
+└─$ echo "Never Stop Learning"
+
+Never Stop Learning 🚀
+```
 
 ---
 
 # 🚀 Featured Projects
 
+---
+
 ## ❤️ Heart Disease Prediction
 
-🩺 Machine Learning model for predicting heart disease using Python.
+<img align="right" width="300" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
 
-**Technologies**
+### Machine Learning Project
 
-`Python` `Pandas` `NumPy` `Scikit-learn`
+### Features
+
+✔ Data Cleaning
+
+✔ Feature Engineering
+
+✔ Model Training
+
+✔ Accuracy Evaluation
+
+✔ Prediction System
+
+### Technologies
+
+🐍 Python
+
+📊 Pandas
+
+📈 NumPy
+
+🤖 Scikit-learn
+
+📉 Matplotlib
 
 ---
 
 ## 🌐 Advertising Agency Management System
 
-A full-stack web application featuring:
+<img align="right" width="300" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">
 
-- User Authentication
-- Campaign Management
-- Messaging System
-- Analytics Dashboard
+### Web Application
 
-**Technologies**
+Features
 
-`Java` `JSP` `Servlets` `MySQL`
+✔ Authentication
+
+✔ Campaign Management
+
+✔ Internal Messaging
+
+✔ Analytics Dashboard
+
+✔ Payment Module
+
+### Technologies
+
+☕
+
+Java
+
+🌐 JSP
+
+⚙ Servlet
+
+🗄 MySQL
+
+🎨 HTML
+
+🎯 CSS
+
+⚡ JavaScript
 
 ---
 
 ## 🚗 Vehicle Parking Management System
 
-A Java-based parking management application.
+<img align="right" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-Features:
+### Java Project
 
-- Vehicle Registration
-- Parking Allocation
-- Custom Stack
-- Quick Sort Implementation
+Features
 
----
+✔ Login System
 
-## 🏠 IoT Home Automation
+✔ Parking Allocation
 
-Smart Home Automation using:
+✔ Vehicle Registration
 
-- ESP32
-- Arduino
-- RFID
-- PIR Sensor
-- LDR
-- Servo Motor
+✔ Stack Implementation
+
+✔ Quick Sort
+
+✔ File Handling
 
 ---
 
-# 📚 Currently Learning
+## 🏠 Smart Home Automation
+
+<img align="right" width="300" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif">
+
+### IoT Project
+
+Hardware
+
+ESP32
+
+Arduino
+
+RFID
+
+Servo Motor
+
+PIR Sensor
+
+LDR Sensor
+
+Relay Module
+
+Features
+
+✔ Smart Lighting
+
+✔ Motion Detection
+
+✔ RFID Authentication
+
+✔ Home Automation
+
+---
+
+# 🧠 AI Learning Roadmap
 
 ```text
-Artificial Intelligence
-█████████████░░░░ 80%
+Python
+█████████████████████████ 100%
+
+Java
+██████████████████████░░ 90%
+
+Machine Learning
+██████████████████░░░░░░ 80%
 
 Deep Learning
-████████████░░░░░ 75%
+████████████████░░░░░░░░ 70%
+
+Computer Vision
+██████████████░░░░░░░░░░ 60%
 
 Cloud Computing
-█████████░░░░░░░ 60%
+█████████████░░░░░░░░░░░ 55%
 
-Power BI
-███████████░░░░░ 70%
+MLOps
+██████████░░░░░░░░░░░░░░ 40%
 ```
 
 ---
 
-# 🌐 Connect With Me
+# 📜 Certifications
 
-<p align="center">
+🚀 Currently Working On
 
-<a href="mailto:dasundilshan2003@gmail.com">
+- Microsoft Power BI
 
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+- Google AI Courses
 
-</a>
+- Machine Learning Specialization
 
-<a href="https://www.linkedin.com/in/dasun-dilshan-31a5b7277">
+- Deep Learning
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-
-</a>
-
-</p>
+- Cloud Computing
 
 ---
 
-# 💡 Quote of the Day
+# 🎯 2026 Goals
 
-> *"The best way to predict the future is to invent it."* — Alan Kay
+✅ Build 20+ AI Projects
+
+⬜ Publish Research Project
+
+⬜ Learn Computer Vision
+
+⬜ Learn NLP
+
+⬜ Master Deep Learning
+
+⬜ Learn MLOps
+
+⬜ Contribute to Open Source
+
+⬜ Build AI SaaS
+
+⬜ Land AI Engineer Internship
 
 ---
 
-# 🐍 Contribution Snake
+# ⚡ Daily Routine
 
-> *(Enable this later using GitHub Actions.)*
+```python
+while True:
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Dasun-Git-2003/Dasun-Git-2003/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
+    learn()
+
+    build_projects()
+
+    improve_skills()
+
+    drink_coffee()
+
+    repeat()
+```
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+## ⚡ "Code. Learn. Build. Repeat."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=120&section=footer"/>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
+
+</div>
+
+<!-- ========================================================= -->
+<!--                  CONNECT WITH ME                          -->
+<!-- ========================================================= -->
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:dasundilshan2003@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dasun-dilshan-31a5b7277">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dasun-Git-2003">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💭 Favorite Quote
+
+<div align="center">
+
+> **"The best way to predict the future is to invent it."**
+>
+> — Alan Kay
+
+</div>
+
+---
+
+# 🧠 AI Philosophy
+
+```text
+Artificial Intelligence
+      +
+Human Creativity
+      +
+Continuous Learning
+      =
+Innovation
+```
+
+---
+
+# 🚀 Mission
+
+```text
+✔ Build Intelligent Systems
+
+✔ Solve Real-world Problems
+
+✔ Learn Every Day
+
+✔ Share Knowledge
+
+✔ Never Stop Improving
+```
+
+---
+
+# ⚡ Fun Facts
+
+```yaml
+Name: Dasun Dilshan
+
+Country: Sri Lanka 🇱🇰
+
+Degree:
+Artificial Intelligence
+
+Favorite Language:
+Python 🐍
+
+Dream Job:
+AI Engineer 🤖
+
+Hobbies:
+Coding
+Learning AI
+Building Projects
+Gaming
+Travel
+```
+
+---
+
+# 💻 My Coding Philosophy
+
+```cpp
+while(alive)
+{
+    Learn();
+
+    Build();
+
+    Improve();
+
+    HelpOthers();
+
+    NeverGiveUp();
+}
+```
+
+---
+
+# 🎯 Current Focus
+
+```text
+🧠 Artificial Intelligence
+
+🤖 Machine Learning
+
+🧩 Deep Learning
+
+☁ Cloud Computing
+
+📊 Data Analytics
+
+🚀 Full Stack Development
+```
+
+---
+
+# 🖼️ Coding Mode
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="750"/>
+
+</div>
+
+---
+
+# 🎵 Now Playing
+
+<div align="center">
+
+🎧 Coding + Coffee ☕
+
+🎼 Lo-fi • Synthwave • Ambient
+
+</div>
+
+---
+
+# 💡 Profile Motto
+
+<div align="center">
+
+### ⚡ Think • Learn • Build • Innovate ⚡
+
+</div>
+
+---
+
+# 🌟 Thanks for Visiting!
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Let's+Build+Something+Amazing!;Keep+Learning!;See+You+Again!+👋"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,25,30&section=footer"/>
 
 </div>
